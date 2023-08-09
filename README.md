@@ -1,6 +1,5 @@
 # Galena Wagdy Zareef - Data Scientist :bar_chart:
 
-![Profile](https://avatars.githubusercontent.com/u/your-user-id)
 
 📧 galena.wagdy.zareef@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/galena-wagdy-zareef/) | 🐙 [GitHub](https://github.com/Galena-Wagdy-Zareef) | 📞 +201552801993 | 📍 Cairo, Egypt
 
@@ -57,20 +56,22 @@ I am a passionate and dedicated Data Scientist with a strong background in bioin
 
 ---
 
-## Certifications :bookmark_tabs:
-- Machine Learning Specialization - Coursera
-- Microsoft Certified: Azure Data Scientist Associate - Microsoft
-- HCIA-AI - Huawei
-- Data Analysis - Pluralsight
-- Data Analysis Professional Nanodegree program – Udacity
-- Big Data Essential - National Telecommunication Institute (NTI)
-- Multi-omics Data Analysis - Children's Cancer Hospital 57357
-- Cloud Application Developer 2018 Mastery Award for Students - IBM Skills Academy
 
----
+## Certifications :bookmark_tabs:
+- [Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/machine-learning)
+- [Microsoft Certified: Azure Data Scientist Associate - Microsoft](https://learn.microsoft.com/en-us/certifications/azure-data-scientist)
+- [HCIA-AI - Huawei](https://support.huaweicloud.com/intl/en-us/train-certification-certification/certification/hcia_ai.html)
+- [Data Analysis - Pluralsight](https://www.pluralsight.com/paths/data-analysis)
+- [Data Analysis Professional Nanodegree program – Udacity](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+- [Big Data Essential - National Telecommunication Institute (NTI)](http://www.nti.sci.eg/)
+- [Multi-omics Data Analysis - Children's Cancer Hospital 57357](https://www.57357.org/)
+- [Cloud Application Developer 2018 Mastery Award for Students - IBM Skills Academy](https://www.ibm.com/skills/)
+
+
 
 ## Skills :computer:
-- **Languages**: Python (TensorFlow, NumPy, SciPy, Pandas, Matplotlib, Keras, SciKit-Learn, PyTorch), R (Dplyr, Ggplot2, BioConductor)
+- **Languages**: Python (TensorFlow, NumPy, SciPy, Pandas, Matplotlib, Keras, SciKit-Learn, PyTorch)
+-  R (Dplyr, Ggplot2, BioConductor)
 
 ---
 
