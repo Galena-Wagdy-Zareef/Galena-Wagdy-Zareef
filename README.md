@@ -1,7 +1,7 @@
 # Galena Wagdy Zareef - Data Scientist :bar_chart:
 
 
-📧 galena.wagdy.zareef@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/galena-wagdy-zareef/) | 🐙 [GitHub](https://github.com/Galena-Wagdy-Zareef) | 📞 +201552801993 | 📍 Cairo, Egypt
+📧 galena.wagdy.zareef@gmail.com  | 🐙 [GitHub](https://github.com/Galena-Wagdy-Zareef) | 📞 +201552801993 | 📍 Cairo, Egypt
 
 ---
 <h1 align="center">Hi 👋, I'm Galena Wagdy Zareef</h1>
