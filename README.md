@@ -15,32 +15,6 @@
 <a href="https://kaggle.com/galenazareef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="galenazareef" height="30" width="40" /></a>
 </p>
 
-
-
-<h1 align="center">👋 Hi, I'm Galena Wagdy Zareef</h1>
-
-<p align="center">Welcome to my GitHub profile! I'm a passionate Data Scientist on a mission to transform data into meaningful insights and innovative solutions. Let's explore the world of data together.</p>
-
-<h3 align="left">📚 Education & Experiences:</h3>
-<p align="left">
-🎓 Master of Science in Data Science and AI, Queen’s University<br>
-🎓 Bachelor of Science in Bioinformatics, Minia University (Graduated with Honors)
-</p>
-<p align="left">
-🚀 Currently contributing to groundbreaking projects, including Rology's Calcium Scoring AI and predictive modeling for anti-cancer drug activity.</p>
-
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/galenawzareef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="galenawzareef" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/galena-wagdy-zareef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galena-wagdy-zareef" height="30" width="40" /></a>
-<a href="https://kaggle.com/galenazareef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="galenazareef" height="30" width="40" /></a>
-</p>
-
-<p align="center">Feel free to explore my repositories and connect with me. Let's collaborate and turn data into insights!</p>
-
-<p align="center">📄 [Check out my Resume](https://drive.google.com/file/d/1u9EbwJwQgBPJ_uPrUc6Z7gJGly-DMdBk/view?usp=sharing)</p>
-
-
 ---
 
 ## About :pencil: 
