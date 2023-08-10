@@ -17,7 +17,7 @@
 
 ---
 
-## About: pencil: 
+## About :pencil: 
 I am a passionate and dedicated Data Scientist with a strong background in bioinformatics and a Master's degree in Data Science and AI from Queen’s University. I am skilled in various machine learning techniques, data analysis, and programming languages such as Python and R. My expertise includes genetic association analysis, sentiment analysis, computer vision, and more. With a proven track record of academic achievements and hands-on projects, I am eager to contribute my skills to challenging and impactful projects.
 
 ---
@@ -81,8 +81,8 @@ I am a passionate and dedicated Data Scientist with a strong background in bioin
 
 ---
 
-## Skills :computer:
-- **Languages**: Python (TensorFlow, NumPy, SciPy, Pandas, Matplotlib, Keras, SciKit-Learn, PyTorch)
+## Tools :computer:
+-  Python (TensorFlow, NumPy, SciPy, Pandas, Matplotlib, Keras, SciKit-Learn, PyTorch)
 -  R (Dplyr, Ggplot2, BioConductor)
 ---
  <h3 align="left">Languages and Tools:</h3>
