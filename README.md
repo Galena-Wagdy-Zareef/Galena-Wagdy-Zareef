@@ -4,6 +4,12 @@
 📧 galena.wagdy.zareef@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/galena-wagdy-zareef/) | 🐙 [GitHub](https://github.com/Galena-Wagdy-Zareef) | 📞 +201552801993 | 📍 Cairo, Egypt
 
 ---
+<h1 align="center">Hi 👋, I'm Galena Wagdy Zareef</h1>
+- 👨‍💻 All of my projects are available at [https://github.com/Galena-Wagdy-Zareef](https://github.com/Galena-Wagdy-Zareef)
+
+- 📫 How to reach me **galena.wagdy.zareef@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1u9EbwJwQgBPJ_uPrUc6Z7gJGly-DMdBk/view?usp=sharing](https://drive.google.com/file/d/1u9EbwJwQgBPJ_uPrUc6Z7gJGly-DMdBk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,7 +17,6 @@
 <a href="https://linkedin.com/in/galena-wagdy-zareef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="galena-wagdy-zareef" height="30" width="40" /></a>
 <a href="https://kaggle.com/galenazareef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="galenazareef" height="30" width="40" /></a>
 </p>
-
 ---
 ## Summary :pencil:
 I am a passionate and dedicated Data Scientist with a strong background in bioinformatics and a Master's degree in Data Science and AI from Queen’s University. I am skilled in various machine learning techniques, data analysis, and programming languages such as Python and R. My expertise includes genetic association analysis, sentiment analysis, computer vision, and more. With a proven track record of academic achievements and hands-on projects, I am eager to contribute my skills to challenging and impactful projects.
