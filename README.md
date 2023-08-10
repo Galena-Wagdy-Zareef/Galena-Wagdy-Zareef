@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Galena Wagdy Zareef</h1>
 
 
-## About :pencil: 
+## About Me :pencil: 
 I am a passionate and dedicated Data Scientist with a strong background in bioinformatics and a Master's degree in Data Science and AI from Queen’s University. I am skilled in various machine learning techniques, data analysis, and programming languages such as Python and R. My expertise includes genetic association analysis, sentiment analysis, computer vision, and more. With a proven track record of academic achievements and hands-on projects, I am eager to contribute my skills to challenging and impactful projects.
 
 
