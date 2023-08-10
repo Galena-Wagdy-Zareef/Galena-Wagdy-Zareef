@@ -5,9 +5,6 @@
 
 ---
 <h1 align="center">Hi 👋, I'm Galena Wagdy Zareef</h1>
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Galena-Wagdy-Zareef)
-
-- 📫 How to reach me **galena.wagdy.zareef@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1u9EbwJwQgBPJ_uPrUc6Z7gJGly-DMdBk/view?usp=sharing)
 
