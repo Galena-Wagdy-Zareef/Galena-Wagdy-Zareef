@@ -24,7 +24,7 @@ I am a passionate and dedicated Data Scientist with a strong background in bioin
 
 ## Education :mortar_board:
 - Master of Science in Data Science and AI
-  - Queen’s University
+  - Computing, Queen’s University
   - Nov 2022 – Oct 2023
 
 - Bachelor of Science in Bioinformatics
