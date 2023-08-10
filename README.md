@@ -15,7 +15,7 @@
 <a href="https://kaggle.com/galenazareef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="galenazareef" height="30" width="40" /></a>
 </p>
 ---
-## Summary :pencil:
+pencil:
 I am a passionate and dedicated Data Scientist with a strong background in bioinformatics and a Master's degree in Data Science and AI from Queen’s University. I am skilled in various machine learning techniques, data analysis, and programming languages such as Python and R. My expertise includes genetic association analysis, sentiment analysis, computer vision, and more. With a proven track record of academic achievements and hands-on projects, I am eager to contribute my skills to challenging and impactful projects.
 
 ---
