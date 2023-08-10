@@ -49,6 +49,7 @@ I am a passionate and dedicated Data Scientist with a strong background in bioin
 
 ---
 
+<!---
 ## Projects :hammer_and_wrench:
 - **Genetic Association for 3 SNPs Related to T2D in the Egyptian Population**
   - Employed genetic models and genotype percentages for analysis
@@ -78,6 +79,7 @@ I am a passionate and dedicated Data Scientist with a strong background in bioin
 - [Big Data Essential - National Telecommunication Institute (NTI)](http://www.nti.sci.eg/)
 - [Multi-omics Data Analysis - Children's Cancer Hospital 57357](https://www.57357.org/)
 - [Cloud Application Developer 2018 Mastery Award for Students - IBM Skills Academy](https://www.ibm.com/skills/)
+--->
 
 ---
 
