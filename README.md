@@ -81,10 +81,6 @@ I am a passionate and dedicated Data Scientist with a strong background in bioin
 
 ---
 
-## Tools :computer:
--  Python (TensorFlow, NumPy, SciPy, Pandas, Matplotlib, Keras, SciKit-Learn, PyTorch)
--  R (Dplyr, Ggplot2, BioConductor)
-
 ## Skills 🛠️
 
 As a passionate Data Scientist, I bring a wealth of expertise in programming languages, libraries, and frameworks that empower me to extract insights from complex data and drive data-driven decisions. My skill set includes:
