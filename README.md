@@ -82,9 +82,10 @@ I am a passionate and dedicated Data Scientist with a strong background in bioin
 - [Big Data Essential - National Telecommunication Institute (NTI)](http://www.nti.sci.eg/)
 - [Multi-omics Data Analysis - Children's Cancer Hospital 57357](https://www.57357.org/)
 - [Cloud Application Developer 2018 Mastery Award for Students - IBM Skills Academy](https://www.ibm.com/skills/)
---->
+
 
 ---
+--->
 
 ## Skills 🛠️
 
