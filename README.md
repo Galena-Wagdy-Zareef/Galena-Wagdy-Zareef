@@ -27,7 +27,7 @@ I am a passionate and dedicated Data Scientist with a strong background in bioin
   - Nov 2022 – Oct 2023
 
 - Bachelor of Science in Bioinformatics
-  - Faculty of Computer Science and Information, Minia University
+  - Computer Science and Information, Minia University
   - Graduated with a Grade B (3.34)
   - Graduation Project Grade: A+
   - Sep 2017 – June 2021
