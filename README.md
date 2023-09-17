@@ -41,10 +41,8 @@ I am a passionate and dedicated Data Scientist with a strong background in bioin
 ---
 
 ## Experience :briefcase:
-- **Rology - Automated Calcium Scoring AI Project**
-  - Computer Vision Project
-  - Automated detection, quantification, and scoring of coronary artery calcium in chest CT scans
-  - Present
+- **Rology (Internship)**
+  - Computer Vision Project: Automated detection, quantification, and scoring of coronary artery calcium in chest CT scans
 
 ---
 
