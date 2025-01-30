@@ -80,10 +80,4 @@
 
 ---
 
-## 📬 Let's Connect!
-
-- 📧 **[Email](mailto:galena.wagdy.zareef@gmail.com)**  
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/galena-wagdy-zareef/)**  
-- 🏗️ **[GitHub](https://github.com/Galena-Wagdy-Zareef)**  
-
 🚀 **Open to collaborations in AI, Data Engineering, and Bioinformatics research!**
