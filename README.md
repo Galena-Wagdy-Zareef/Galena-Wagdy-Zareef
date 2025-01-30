@@ -1,4 +1,4 @@
-# Galena Wagdy Zareef - Data Scientist :bar_chart:
+# Galena Wagdy Zareef - Data Engineer :bar_chart:
 
 
 📧 galena.wagdy.zareef@gmail.com | 📞 +201552801993 | 📍 Cairo, Egypt
